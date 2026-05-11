@@ -1,0 +1,114 @@
+[
+  {
+    "case_id": "openai_research_scientist",
+    "raw": {
+      "fullName": "Alex Kim",
+      "headline": "Research Scientist at OpenAI · LLMs, RLHF, multimodal",
+      "linkedinUrl": "https://www.linkedin.com/in/alex-kim-ai/",
+      "currentTitle": "Research Scientist",
+      "currentCompany": "OpenAI",
+      "experience": [
+        {"title": "Research Scientist", "companyName": "OpenAI"},
+        {"title": "Research Engineer", "companyName": "Google Brain"}
+      ],
+      "skills": ["Machine Learning", "Reinforcement Learning", "Python"],
+      "about": "Working on alignment, RLHF and post-training of LLMs."
+    }
+  },
+  {
+    "case_id": "stealth_founder",
+    "raw": {
+      "fullName": "Priya Patel",
+      "headline": "Co-Founder & CEO @ Stealth (AI infra)",
+      "linkedinUrl": "https://www.linkedin.com/in/priya-patel/",
+      "currentTitle": "Co-Founder & CEO",
+      "currentCompany": "Stealth",
+      "experience": [
+        {"title": "Co-Founder & CEO", "companyName": "Stealth"},
+        {"title": "Staff Engineer", "companyName": "Stripe"}
+      ],
+      "skills": ["LLM", "Agents", "Distributed systems"],
+      "about": "Building agent infrastructure. Previously Staff @ Stripe."
+    }
+  },
+  {
+    "case_id": "vc_partner",
+    "raw": {
+      "fullName": "Jordan Lee",
+      "headline": "Managing Partner at Sequoia Capital · investing in AI",
+      "linkedinUrl": "https://www.linkedin.com/in/jordan-lee-vc/",
+      "currentTitle": "Managing Partner",
+      "currentCompany": "Sequoia Capital",
+      "experience": [
+        {"title": "Managing Partner", "companyName": "Sequoia Capital"},
+        {"title": "Principal", "companyName": "NEA"}
+      ],
+      "skills": ["Venture Capital", "AI investing"],
+      "about": "Investing in early-stage AI companies."
+    }
+  },
+  {
+    "case_id": "phd_student_pure_academic",
+    "raw": {
+      "fullName": "Sam Rivera",
+      "headline": "PhD Student in CS at Stanford University · NLP",
+      "linkedinUrl": "https://www.linkedin.com/in/sam-rivera/",
+      "currentTitle": "PhD Student",
+      "currentCompany": "Stanford University",
+      "experience": [
+        {"title": "PhD Student", "companyName": "Stanford University"},
+        {"title": "Graduate Researcher", "companyName": "Stanford NLP Group"}
+      ],
+      "skills": ["NLP", "Python"],
+      "about": "Researching low-resource NLP. Looking for industry roles."
+    }
+  },
+  {
+    "case_id": "phd_intern_at_anthropic",
+    "raw": {
+      "fullName": "Casey Wu",
+      "headline": "PhD Student @ MIT · Research Intern at Anthropic",
+      "linkedinUrl": "https://www.linkedin.com/in/casey-wu/",
+      "currentTitle": "Research Intern",
+      "currentCompany": "Anthropic",
+      "experience": [
+        {"title": "Research Intern", "companyName": "Anthropic"},
+        {"title": "PhD Student", "companyName": "MIT"}
+      ],
+      "skills": ["RLHF", "LLM", "Alignment"],
+      "about": "Doing alignment research at Anthropic this summer."
+    }
+  },
+  {
+    "case_id": "engineer_databricks",
+    "raw": {
+      "fullName": "Morgan Schmidt",
+      "headline": "Senior Software Engineer at Databricks",
+      "linkedinUrl": "https://www.linkedin.com/in/morgan-schmidt/",
+      "currentTitle": "Senior Software Engineer",
+      "currentCompany": "Databricks",
+      "experience": [
+        {"title": "Senior Software Engineer", "companyName": "Databricks"},
+        {"title": "Software Engineer", "companyName": "Snowflake"}
+      ],
+      "skills": ["Distributed Systems", "Spark", "Data Engineering"],
+      "about": "Working on data platform infrastructure."
+    }
+  },
+  {
+    "case_id": "faculty_pure_academic",
+    "raw": {
+      "fullName": "Dr. Helena Ross",
+      "headline": "Associate Professor of Computer Science · UC Berkeley",
+      "linkedinUrl": "https://www.linkedin.com/in/helena-ross/",
+      "currentTitle": "Associate Professor",
+      "currentCompany": "UC Berkeley",
+      "experience": [
+        {"title": "Associate Professor", "companyName": "UC Berkeley"},
+        {"title": "Assistant Professor", "companyName": "UC Berkeley"}
+      ],
+      "skills": ["Theory of Computation"],
+      "about": "Research in theoretical CS."
+    }
+  }
+]

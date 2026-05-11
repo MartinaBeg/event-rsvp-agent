@@ -1,0 +1,51 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.eggs/
+build/
+dist/
+.venv/
+venv/
+env/
+.python-version
+
+# Tooling
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+.pyre/
+.hypothesis/
+.tox/
+.nox/
+.coverage
+.coverage.*
+htmlcov/
+coverage.xml
+
+# Env / secrets
+.env
+.env.*
+!.env.example
+.envrc
+.direnv/
+
+# Local working data — the agent writes decisions back into your xlsx.
+# Keep these out of git so candidate data isn't committed.
+*.xlsx
+*.xls
+*.xlsm
+*.xlsb
+!tests/fixtures/*.xlsx
+
+# IDE
+.vscode/
+.idea/
+*.swp
+.DS_Store
+.ipynb_checkpoints/
+*.log
+
+# Submission cleanup
+.github/workflows/

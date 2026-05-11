@@ -1,0 +1,222 @@
+[
+  {
+    "case_id": "openai_research_scientist",
+    "profile": {
+      "name": "Alex Kim",
+      "headline": "Research Scientist at OpenAI · LLMs, RLHF, multimodal",
+      "current_title": "Research Scientist",
+      "current_company": "OpenAI",
+      "top_experience": [
+        {"title": "Research Scientist", "company": "OpenAI"},
+        {"title": "Research Engineer", "company": "Google Brain"}
+      ],
+      "skills": ["Machine Learning", "Reinforcement Learning"],
+      "about": "Working on alignment, RLHF and post-training of LLMs."
+    },
+    "expected": {"category": "Industry Researcher", "priority": "P1", "decision": "Approve"}
+  },
+  {
+    "case_id": "anthropic_swe_with_ai",
+    "profile": {
+      "name": "Riley Stone",
+      "headline": "Software Engineer at Anthropic · LLM infra",
+      "current_title": "Software Engineer",
+      "current_company": "Anthropic",
+      "top_experience": [
+        {"title": "Software Engineer", "company": "Anthropic"}
+      ],
+      "skills": ["LLM", "Distributed Systems"],
+      "about": "Working on Claude infra."
+    },
+    "expected": {"category": "Engineer", "priority": "P1", "decision": "Approve"}
+  },
+  {
+    "case_id": "meta_research_scientist",
+    "profile": {
+      "name": "Pat Mendoza",
+      "headline": "Research Scientist at Meta · multimodal models",
+      "current_title": "Research Scientist",
+      "current_company": "Meta",
+      "top_experience": [
+        {"title": "Research Scientist", "company": "Meta"}
+      ],
+      "skills": ["Multimodal", "Computer Vision"],
+      "about": "Multimodal foundation models at Meta."
+    },
+    "expected": {"category": "Industry Researcher", "priority": "P2", "decision": "Approve"}
+  },
+  {
+    "case_id": "stealth_founder_agents",
+    "profile": {
+      "name": "Priya Patel",
+      "headline": "Co-Founder & CEO @ Stealth (AI infra)",
+      "current_title": "Co-Founder & CEO",
+      "current_company": "Stealth",
+      "top_experience": [
+        {"title": "Co-Founder & CEO", "company": "Stealth"},
+        {"title": "Staff Engineer", "company": "Stripe"}
+      ],
+      "skills": ["LLM", "Agents"],
+      "about": "Building agent infrastructure."
+    },
+    "expected": {"category": "Startup Founder", "priority": "P1", "decision": "Approve"}
+  },
+  {
+    "case_id": "funded_ai_founder",
+    "profile": {
+      "name": "Tomás Alvarez",
+      "headline": "Founder & CEO at Replit · AI dev tools",
+      "current_title": "Founder & CEO",
+      "current_company": "Replit",
+      "top_experience": [
+        {"title": "Founder & CEO", "company": "Replit"}
+      ],
+      "skills": ["AI", "Developer Tools"],
+      "about": "Building AI coding agents."
+    },
+    "expected": {"category": "Startup Founder", "priority": "P1", "decision": "Approve"}
+  },
+  {
+    "case_id": "vc_managing_partner",
+    "profile": {
+      "name": "Jordan Lee",
+      "headline": "Managing Partner at Sequoia Capital · investing in AI",
+      "current_title": "Managing Partner",
+      "current_company": "Sequoia Capital",
+      "top_experience": [
+        {"title": "Managing Partner", "company": "Sequoia Capital"},
+        {"title": "Principal", "company": "NEA"}
+      ],
+      "skills": ["Venture Capital", "AI investing"],
+      "about": "Investing in early-stage AI companies."
+    },
+    "expected": {"category": "Investor", "priority": "P1", "decision": "Approve"}
+  },
+  {
+    "case_id": "senior_swe_databricks",
+    "profile": {
+      "name": "Morgan Schmidt",
+      "headline": "Senior Software Engineer at Databricks",
+      "current_title": "Senior Software Engineer",
+      "current_company": "Databricks",
+      "top_experience": [
+        {"title": "Senior Software Engineer", "company": "Databricks"}
+      ],
+      "skills": ["Distributed Systems", "Spark", "Data Engineering"],
+      "about": "Working on data platform infrastructure."
+    },
+    "expected": {"category": "Engineer", "priority": "P3", "decision": "Approve"}
+  },
+  {
+    "case_id": "swe_unknown_smallco",
+    "profile": {
+      "name": "Lin Wang",
+      "headline": "Software Engineer at Acme Tools",
+      "current_title": "Software Engineer",
+      "current_company": "Acme Tools",
+      "top_experience": [
+        {"title": "Software Engineer", "company": "Acme Tools"}
+      ],
+      "skills": ["Backend"],
+      "about": "Building internal tools."
+    },
+    "expected": {"category": "Engineer", "priority": "P5", "decision": "Reject"}
+  },
+  {
+    "case_id": "phd_student_pure_academic",
+    "profile": {
+      "name": "Sam Rivera",
+      "headline": "PhD Student in CS at Stanford University · NLP",
+      "current_title": "PhD Student",
+      "current_company": "Stanford University",
+      "top_experience": [
+        {"title": "PhD Student", "company": "Stanford University"},
+        {"title": "Graduate Researcher", "company": "Stanford NLP Group"}
+      ],
+      "skills": ["NLP"],
+      "about": "Researching low-resource NLP.",
+      "university_markers": ["university", "stanford"]
+    },
+    "expected": {"category": "Other", "priority": "P5", "decision": "Reject"}
+  },
+  {
+    "case_id": "phd_intern_at_anthropic",
+    "profile": {
+      "name": "Casey Wu",
+      "headline": "PhD Student @ MIT · Research Intern at Anthropic",
+      "current_title": "Research Intern",
+      "current_company": "Anthropic",
+      "top_experience": [
+        {"title": "Research Intern", "company": "Anthropic"},
+        {"title": "PhD Student", "company": "MIT"}
+      ],
+      "skills": ["RLHF", "LLM", "Alignment"],
+      "about": "Doing alignment research at Anthropic this summer."
+    },
+    "expected": {"category": "Industry Researcher", "priority": "P1", "decision": "Approve"}
+  },
+  {
+    "case_id": "pure_faculty_no_industry",
+    "profile": {
+      "name": "Helena Ross",
+      "headline": "Associate Professor of Computer Science · UC Berkeley",
+      "current_title": "Associate Professor",
+      "current_company": "UC Berkeley",
+      "top_experience": [
+        {"title": "Associate Professor", "company": "UC Berkeley"},
+        {"title": "Assistant Professor", "company": "UC Berkeley"}
+      ],
+      "skills": ["Theory of Computation"],
+      "about": "Research in theoretical CS.",
+      "university_markers": ["university", "berkeley"]
+    },
+    "expected": {"category": "Faculty", "priority": "P5", "decision": "Reject"}
+  },
+  {
+    "case_id": "ml_engineer_openai",
+    "profile": {
+      "name": "Avi Goldberg",
+      "headline": "ML Engineer at OpenAI",
+      "current_title": "ML Engineer",
+      "current_company": "OpenAI",
+      "top_experience": [
+        {"title": "ML Engineer", "company": "OpenAI"}
+      ],
+      "skills": ["LLM", "Distributed Training"],
+      "about": "Training LLMs."
+    },
+    "expected": {"category": "Engineer", "priority": "P1", "decision": "Approve"}
+  },
+  {
+    "case_id": "edge_company_url",
+    "row_overrides": {"linkedin_url": "https://www.linkedin.com/company/openai"},
+    "profile": {},
+    "expected": {"category": "Other", "priority": "P5", "decision": "Reject", "notes_contains": "company page"}
+  },
+  {
+    "case_id": "edge_broken_handle",
+    "row_overrides": {"linkedin_url": "https://www.linkedin.com/in/na"},
+    "profile": {},
+    "expected": {"category": "Other", "priority": "P5", "decision": "Reject", "notes_contains": "Broken"}
+  },
+  {
+    "case_id": "edge_scrape_failed",
+    "profile": {"error": "no_profile_returned"},
+    "expected": {"category": "Other", "priority": "P5", "decision": "Reject", "notes_contains": "Scrape failed"}
+  },
+  {
+    "case_id": "abaka_staff",
+    "profile": {
+      "name": "Lina Park",
+      "headline": "Head of GTM at Abaka AI",
+      "current_title": "Head of GTM",
+      "current_company": "Abaka AI",
+      "top_experience": [
+        {"title": "Head of GTM", "company": "Abaka AI"}
+      ],
+      "skills": ["GTM"],
+      "about": "Leading go-to-market at Abaka AI."
+    },
+    "expected": {"notes_contains": "[ABAKA STAFF]"}
+  }
+]

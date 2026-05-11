@@ -1,0 +1,117 @@
+# Company tier lists. Edit freely — rules.py reads this at runtime.
+# Matching is case-insensitive substring against current_company / experiences.
+
+# Tier 1: top frontier-AI labs.
+tier_1:
+  - OpenAI
+  - Anthropic
+  - Google DeepMind
+  - DeepMind
+  - Google Research
+  - Meta FAIR
+  - FAIR Labs
+  - Facebook AI Research
+  - Microsoft Research
+  - Apple AI/MLR
+  - Apple MLR
+  - Apple Machine Learning Research
+  - NVIDIA Research
+
+# Tier 1b: high-prestige AI startups & frontier-adjacent companies.
+tier_1b:
+  - Scale AI
+  - xAI
+  - Mistral
+  - Cohere
+  - Character
+  - Character.AI
+  - Perplexity
+  - Inflection
+  - AI21
+  - Adept
+  - World Labs
+  - Sesame
+  - Fastino
+  - Liquid AI
+  - FutureHouse
+  - Thinking Machines
+  - SSI
+  - Safe Superintelligence
+  - Physical Intelligence
+  - Figure
+  - 1X
+
+# Tier 2: large tech, well-funded AI infra, big VC firms.
+tier_2:
+  - Netflix
+  - Roblox
+  - Uber
+  - Airbnb
+  - LinkedIn
+  - Databricks
+  - Hugging Face
+  - Weights & Biases
+  - Pinecone
+  - LangChain
+  - Together
+  - Boston Dynamics
+  - Skild
+  - Wayve
+  - Waymo
+  - ByteDance
+  - TikTok
+  - Snowflake
+  - Samsung Ventures
+  - RBC Borealis
+  - ServiceNow
+  - NEA
+  - Sequoia
+  - a16z
+  - Andreessen Horowitz
+  - Meta
+  - Google
+  - Apple
+  - Amazon
+  - Microsoft
+  - NVIDIA
+  - AWS
+  - Pinterest
+  - Tesla
+  - PathAI
+  - Adobe
+  - Salesforce
+
+# Tier 3: seed list of other funded AI startups (Series A+).
+# Add to this as needed.
+tier_3:
+  - Replit
+  - Vercel
+  - Modal
+  - Anyscale
+  - Fal
+  - Runway
+  - ElevenLabs
+  - Stability AI
+  - Glean
+  - Harvey
+  - Mercor
+  - Sierra
+  - Decagon
+  - Fireworks
+  - Baseten
+  - Lambda
+  - CoreWeave
+  - Poolside
+  - Magic
+  - Imbue
+  - Sakana
+  - Reka
+  - Contextual AI
+  - LlamaIndex
+  - Pinecone
+  - Typeform
+  - Notion
+  - Ramp
+  - Mercury
+  - Stripe
+  - Datadog
